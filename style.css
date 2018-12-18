@@ -1,0 +1,55 @@
+body {
+	
+	background-color: darkblue;
+	
+}
+
+button {
+	
+	border: none;
+	width: 10em;
+	
+}
+
+#style_caixa {
+	
+	background-color: blue;
+	text-align: center;
+	width: 30em;
+	height: 15em;
+	border: none;
+	margin-left: 28em;
+	margin-top: 12em;
+	border-radius: 15px;
+		
+}
+
+#style_caixa h1 {
+	
+	color: white;
+	position: absolute;
+	margin-top: 1em;
+	text-align: center;
+	margin-left: 4.7em;
+	font-family: Arial;
+	
+}
+
+button {
+	
+	margin-left: 2em;
+	margin-top: 8em;
+	border-radius: 10px;
+	width: 13em;
+	height: 2em;
+	
+}
+
+#resultSpeak {
+	
+	color: white;
+	margin-top: 2em;
+	margin-left: 1.8em;
+	font-family: Arial;
+	
+}
